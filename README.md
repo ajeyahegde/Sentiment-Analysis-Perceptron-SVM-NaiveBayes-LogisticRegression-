@@ -1,8 +1,8 @@
 # Sentiment-Analysis-Perceptron-SVM-NaiveBayes-LogisticRegression
 
-##Sentiment Analysis using Perceptron, Support Vector Machines, Logistic Regression, Naive Bayes algorithms.
+## Sentiment Analysis using Perceptron, Support Vector Machines, Logistic Regression, Naive Bayes algorithms.
 
-###This project includes following steps:
+### This project includes following steps:
 
 1. Read Amazon Reviews Dataset into Pandas dataframe.
 2. Data Cleaning 
